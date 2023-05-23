@@ -1,0 +1,25 @@
+#logo {
+  width: 120.26px;
+}
+#searchBar {
+  background-color: rgba(255, 255, 255, 0.2) !important;
+  border: 1px solid white !important;
+  color: white;
+  width: 400px;
+}
+.form-control::placeholder {
+  color: white;
+}
+
+.loginButton {
+  background-color: #f9a51a;
+  width: 104px;
+  max-height: 44px;
+  border: none;
+  border-radius: 5px;
+  padding-left: 12px;
+}
+
+.loginButtonText {
+  color: black !important;
+}

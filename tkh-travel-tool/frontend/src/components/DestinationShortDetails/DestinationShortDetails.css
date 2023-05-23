@@ -1,0 +1,10 @@
+.bookingButton {
+  background-color: #f9a51a;
+  width: 161px;
+  height: 48px;
+  border-radius: 5px;
+  border: none;
+}
+.bookingButtonText {
+  color: black !important;
+}
